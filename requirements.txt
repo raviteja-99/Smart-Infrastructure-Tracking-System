@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+streamlit
+requests
+Pillow
+opencv-python-headless
+numpy
+reportlab
+pydantic
+passlib
+bcrypt==3.2.0
+matplotlib
